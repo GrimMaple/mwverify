@@ -1,0 +1,15 @@
+{
+    "authors": [
+        "Grim Maple"
+    ],
+    "copyright": "Copyright © 2023, Grim Maple",
+    "dependencies": {
+        "dlangui": "~>0.10.2"
+    },
+    "description": "A minimal D application.",
+    "license": "MIT",
+    "name": "mwverify",
+    "subConfigurations": {
+        "dlangui": "minimal"
+    }
+}
